@@ -1,4 +1,4 @@
-# Data Analysis on Uber Dataset :
+# Data Analysis and applying ML algorithms on Uber Dataset :
 Data is of high-value in today’s rapidly growing environment. I am always interested in learning about new technologies in this ever-changing field of computing. 
 Over the weekend, I participated in a Hackathon conducted by Innomatics Research Labs. 
 Through this hackathon, I could leverage my learnings, which gave me an opportunity to explore the practical applications of Data Analysis and Machine learning field.
