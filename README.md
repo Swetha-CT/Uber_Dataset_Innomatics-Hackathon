@@ -1,4 +1,4 @@
-# Data Analysis and applying ML algorithms on Uber Dataset :
+# Data Analysis and applying ML algorithms on "Uber Rides" Dataset :
 Recently, I participated in a 4-hour Live Hackathon conducted by Innomatics Research Labs. It was an amazing experience being able to take part in such a wonderfully planned virtual coding event, and I learned so much during the entire process about Data Analysis and Machine learning.
 
 The idea was to do 'Data Analysis and apply Machine Learning algorithm on Uber Dataset'. It was done with the help of Python and I used various libraries such as NumPy, Pandas, Seaborn, Matplotlib and sklearn.
