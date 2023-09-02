@@ -19,7 +19,7 @@ Task 2: To calculate Haversine distance between each pickup and dropoff location
 
 Task 3: To Apply a Machine Learning Algorithm to predict the fare amount given following input features:
 passenger_count, distance and ride_week_day.
-ML algorithms to apply and find the least adjusted R square value?
+ML algorithms to apply and find the least adjusted R square value :
 * Linear Regression
 * Decision Tree Classifier
 * Random Forest Regression
